@@ -1,3 +1,4 @@
 # apnacollege-demo
 this is my first Git Repos
-Author - SATYAM KUMAR 
+Author - SATYAM KUMAR
+and lauda 
